@@ -1,0 +1,13 @@
+C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\main.cpp;C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\build\3DRender.dir\Release\main.obj
+C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\Shader.cpp;C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\build\3DRender.dir\Release\Shader.obj
+C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\Camera.cpp;C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\build\3DRender.dir\Release\Camera.obj
+C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\AABB.cpp;C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\build\3DRender.dir\Release\AABB.obj
+C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\OBB.cpp;C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\build\3DRender.dir\Release\OBB.obj
+C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\object.cpp;C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\build\3DRender.dir\Release\object.obj
+C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\physicManager.cpp;C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\build\3DRender.dir\Release\physicManager.obj
+C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\imgui\imgui.cpp;C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\build\3DRender.dir\Release\imgui.obj
+C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\imgui\imgui_draw.cpp;C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\build\3DRender.dir\Release\imgui_draw.obj
+C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\imgui\imgui_tables.cpp;C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\build\3DRender.dir\Release\imgui_tables.obj
+C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\imgui\imgui_widgets.cpp;C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\build\3DRender.dir\Release\imgui_widgets.obj
+C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\imgui\imgui_impl_glfw.cpp;C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\build\3DRender.dir\Release\imgui_impl_glfw.obj
+C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\imgui\imgui_impl_opengl3.cpp;C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\build\3DRender.dir\Release\imgui_impl_opengl3.obj

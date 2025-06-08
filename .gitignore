@@ -1,0 +1,13 @@
+# 忽略編譯產生的檔案
+build/
+*.o
+*.obj
+*.exe
+
+# 忽略 IDE 和工具檔案
+.vscode/
+.idea/
+
+# 忽略系統和臨時檔案
+*.log
+*.tmp
