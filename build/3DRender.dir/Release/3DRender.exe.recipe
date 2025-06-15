@@ -2,10 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\build\x64\Release\ZERO_CHECK</FullPath>
+      <FullPath>C:\Users\QZa\Desktop\BZ\3D Engine\AI_Engine\build\x64\Release\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\build\Release\3DRender.exe</FullPath>
+      <FullPath>C:\Users\QZa\Desktop\BZ\3D Engine\AI_Engine\build\Release\3DRender.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

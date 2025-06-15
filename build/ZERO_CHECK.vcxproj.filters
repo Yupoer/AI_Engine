@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\QZa\Desktop\BZ\3D Engine\3D_rotation\build\CMakeFiles\5564c85b88be18e1e4ac21d823d2c45d\generate.stamp.rule">
+    <CustomBuild Include="C:\Users\QZa\Desktop\BZ\3D Engine\AI_Engine\build\CMakeFiles\7c3c41727f9bc5ed81efdefa9bf67853\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{34637712-5884-38AD-8586-882600EA77C8}</UniqueIdentifier>
+      <UniqueIdentifier>{514825F5-6DEB-324A-A11C-B766132B08D1}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

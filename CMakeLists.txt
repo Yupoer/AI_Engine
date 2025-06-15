@@ -4,10 +4,10 @@ project(3DRender)
 set(CMAKE_CXX_STANDARD 17)
 
 # 尋找依賴
+find_package(glfw3 CONFIG REQUIRED)
 find_package(GLEW CONFIG REQUIRED)
 find_package(glm CONFIG REQUIRED)
 find_package(OpenGL REQUIRED)
-find_package(glfw3 CONFIG REQUIRED)
 
 # 定義 ImGui 源文件
 set(IMGUI_DIR ${CMAKE_SOURCE_DIR}/imgui)
@@ -25,10 +25,7 @@ add_executable(3DRender
     main.cpp
     Shader.cpp
     Camera.cpp
-    AABB.cpp
-    OBB.cpp
-    object.cpp
-    physicManager.cpp
+    DrawBall.cpp
     ${IMGUI_SOURCES}
 )
 
@@ -56,10 +53,3 @@ foreach(RESOURCE ${RESOURCE_FILES})
     configure_file(${CMAKE_SOURCE_DIR}/${RESOURCE} ${CMAKE_BINARY_DIR}/Release/${RESOURCE} COPYONLY)
     configure_file(${CMAKE_SOURCE_DIR}/${RESOURCE} ${CMAKE_BINARY_DIR}/Debug/${RESOURCE} COPYONLY)
 endforeach()
-
-add_custom_target(run
-    COMMAND ${CMAKE_BINARY_DIR}/${CMAKE_PROJECT_NAME}
-    DEPENDS ${CMAKE_PROJECT_NAME}
-    WORKING_DIRECTORY ${CMAKE_BINARY_DIR}
-    COMMENT "Running ${CMAKE_PROJECT_NAME}..."
-)

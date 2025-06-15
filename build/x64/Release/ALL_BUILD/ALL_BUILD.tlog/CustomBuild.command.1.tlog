@@ -1,6 +1,6 @@
-^C:\USERS\QZA\DESKTOP\BZ\3D ENGINE\3D_ROTATION\CMAKELISTS.TXT
+^C:\USERS\QZA\DESKTOP\BZ\3D ENGINE\AI_ENGINE\CMAKELISTS.TXT
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/QZa/Desktop/BZ/3D Engine/3D_rotation" "-BC:/Users/QZa/Desktop/BZ/3D Engine/3D_rotation/build" --check-stamp-file "C:/Users/QZa/Desktop/BZ/3D Engine/3D_rotation/build/CMakeFiles/generate.stamp"
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/QZa/Desktop/BZ/3D Engine/AI_Engine" "-BC:/Users/QZa/Desktop/BZ/3D Engine/AI_Engine/build" --check-stamp-file "C:/Users/QZa/Desktop/BZ/3D Engine/AI_Engine/build/CMakeFiles/generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

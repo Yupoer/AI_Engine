@@ -1,6 +1,6 @@
-^C:\USERS\QZA\DESKTOP\BZ\3D ENGINE\3D_ROTATION\BUILD\CMAKEFILES\5564C85B88BE18E1E4AC21D823D2C45D\GENERATE.STAMP.RULE
+^C:\USERS\QZA\DESKTOP\BZ\3D ENGINE\AI_ENGINE\BUILD\CMAKEFILES\7C3C41727F9BC5ED81EFDEFA9BF67853\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/QZa/Desktop/BZ/3D Engine/3D_rotation" "-BC:/Users/QZa/Desktop/BZ/3D Engine/3D_rotation/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/QZa/Desktop/BZ/3D Engine/3D_rotation/build/3DRender.sln"
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/QZa/Desktop/BZ/3D Engine/AI_Engine" "-BC:/Users/QZa/Desktop/BZ/3D Engine/AI_Engine/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/QZa/Desktop/BZ/3D Engine/AI_Engine/build/3DRender.sln"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

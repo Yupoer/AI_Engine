@@ -38,15 +38,15 @@ C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Windows-MSVC.cmake
 C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Windows.cmake
 C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/WindowsPaths.cmake
 C:/Program Files/CMake/share/cmake-4.0/Modules/SelectLibraryConfigurations.cmake
-C:/Users/QZa/Desktop/BZ/3D Engine/3D_rotation/CMakeLists.txt
-C:/Users/QZa/Desktop/BZ/3D Engine/3D_rotation/build/CMakeFiles/4.0.0/CMakeCCompiler.cmake
-C:/Users/QZa/Desktop/BZ/3D Engine/3D_rotation/build/CMakeFiles/4.0.0/CMakeCXXCompiler.cmake
-C:/Users/QZa/Desktop/BZ/3D Engine/3D_rotation/build/CMakeFiles/4.0.0/CMakeRCCompiler.cmake
-C:/Users/QZa/Desktop/BZ/3D Engine/3D_rotation/build/CMakeFiles/4.0.0/CMakeSystem.cmake
-C:/Users/QZa/Desktop/BZ/3D Engine/3D_rotation/fragmentShaderSource.frag
-C:/Users/QZa/Desktop/BZ/3D Engine/3D_rotation/picSource/container.jpg
-C:/Users/QZa/Desktop/BZ/3D Engine/3D_rotation/picSource/grid.jpg
-C:/Users/QZa/Desktop/BZ/3D Engine/3D_rotation/vertexShaderSource.vert
+C:/Users/QZa/Desktop/BZ/3D Engine/AI_Engine/CMakeLists.txt
+C:/Users/QZa/Desktop/BZ/3D Engine/AI_Engine/build/CMakeFiles/4.0.0/CMakeCCompiler.cmake
+C:/Users/QZa/Desktop/BZ/3D Engine/AI_Engine/build/CMakeFiles/4.0.0/CMakeCXXCompiler.cmake
+C:/Users/QZa/Desktop/BZ/3D Engine/AI_Engine/build/CMakeFiles/4.0.0/CMakeRCCompiler.cmake
+C:/Users/QZa/Desktop/BZ/3D Engine/AI_Engine/build/CMakeFiles/4.0.0/CMakeSystem.cmake
+C:/Users/QZa/Desktop/BZ/3D Engine/AI_Engine/fragmentShaderSource.frag
+C:/Users/QZa/Desktop/BZ/3D Engine/AI_Engine/picSource/container.jpg
+C:/Users/QZa/Desktop/BZ/3D Engine/AI_Engine/picSource/grid.jpg
+C:/Users/QZa/Desktop/BZ/3D Engine/AI_Engine/vertexShaderSource.vert
 C:/vcpkg/installed/x64-windows/share/glew/CopyImportedTargetProperties.cmake
 C:/vcpkg/installed/x64-windows/share/glew/glew-config.cmake
 C:/vcpkg/installed/x64-windows/share/glew/glew-targets-debug.cmake
